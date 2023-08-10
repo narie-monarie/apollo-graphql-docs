@@ -1,3 +1,5 @@
 # apollo-graphql-docs
 
-[x] typeDefs [x] Resolvers
+[x] typeDefs
+
+[x] Resolvers

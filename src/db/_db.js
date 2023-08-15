@@ -77,7 +77,7 @@ let reviews = [
     id: 5,
     rating: 8,
     content: "Horizon Forbidden West showcases the PS5's capabilities.",
-    author_id: 4,
+    author_id: 1,
     game_id: 5,
   },
   {
@@ -99,7 +99,7 @@ let reviews = [
     rating: 7,
     content:
       "Cyberpunk 2077's graphics are impressive, but gameplay needs work.",
-    author_id: 4,
+    author_id: 2,
     game_id: 3,
   },
 ];

@@ -1,4 +1,4 @@
-let titles = [
+let games = [
   {
     id: 1,
     title: "Halo Infinite",
@@ -103,3 +103,5 @@ let reviews = [
     game_id: 3,
   },
 ];
+
+export default { games, authors, reviews };

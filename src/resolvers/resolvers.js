@@ -1,4 +1,4 @@
-import { db } from "../db/_db.js";
+import db from "../db/_db.js";
 
 export const resolvers = {
   Query: {
